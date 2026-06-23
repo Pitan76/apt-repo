@@ -5,3 +5,20 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Pitan76 APT Repository
+Date: Tue, 23 Jun 2026 08:08:43 +0000
+MD5Sum:
+ 4d235887fdecc0bfecfebc05edf48dd5              229 Release
+ d7c8fe32dded72be5103a5c7e54976f5              910 main/binary-amd64/Packages
+ 23c1d9c6d133f8874433f7220fd816f5              464 main/binary-amd64/Packages.gz
+SHA1:
+ 281223a105f949ab6fbd87b07117fb1a00fb9b02              229 Release
+ a32558433f6afe09dda196c985b7093e4decdd32              910 main/binary-amd64/Packages
+ b144519fdfd3a96daa566851945bf8ba9ed068e6              464 main/binary-amd64/Packages.gz
+SHA256:
+ 2e75c66ac9b61bff686d9fcbcfa40a8cb32339f0cc0d3ff3aa83c2f3339d6412              229 Release
+ 01ecd00dff253d0d6ee1642c543bdbdb7ca566e7ec1c5f54f255d770fbd2b311              910 main/binary-amd64/Packages
+ 454bc9035bd6b15259675b062d89fa51a7d0aef6cf49c68a33fd3c9afda46540              464 main/binary-amd64/Packages.gz
+SHA512:
+ 2c203a4bbbff71df246d6cee813cc59c6e3d3832a0528b22c8aa94dcaffc66f116d2f4599da543f0752e2754107b12862ecfa62c568453f0f95097412d0cda58              229 Release
+ aea43b7bf478b1aaafc24a2f8e96ed0b7be6e887e88941f0c8367224537ef7c9ab5f7f9eb0a2f147587e91ac2464bddbc3212437aa0a36620190375b3ea3a767              910 main/binary-amd64/Packages
+ 5554fa3223b1583be986a76dc567f0a87bdde7b9c84984b5b503255d5a2f606af39e856be583c3a2e81b4e56d000275091490e9a14297d1273153e0b801a7c5a              464 main/binary-amd64/Packages.gz
