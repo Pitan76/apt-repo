@@ -1,0 +1,7 @@
+Origin: ModParks
+Label: ModParks CLI Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Pitan76 APT Repository
