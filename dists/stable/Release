@@ -5,20 +5,21 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Pitan76 APT Repository
-Date: Tue, 23 Jun 2026 08:08:43 +0000
+Date: $(date -Ru)
+Date: Tue, 23 Jun 2026 08:35:00 +0000
 MD5Sum:
- 4d235887fdecc0bfecfebc05edf48dd5              229 Release
+ 83a4e014ab63628ffc694a058c2ed5e2              207 Release
  d7c8fe32dded72be5103a5c7e54976f5              910 main/binary-amd64/Packages
- 23c1d9c6d133f8874433f7220fd816f5              464 main/binary-amd64/Packages.gz
+ 8ff4854303c68c0b2242401422ee80eb              464 main/binary-amd64/Packages.gz
 SHA1:
- 281223a105f949ab6fbd87b07117fb1a00fb9b02              229 Release
+ cf8c00b55e3cf1415de26c155d9e8b64f4bd9a18              207 Release
  a32558433f6afe09dda196c985b7093e4decdd32              910 main/binary-amd64/Packages
- b144519fdfd3a96daa566851945bf8ba9ed068e6              464 main/binary-amd64/Packages.gz
+ bdc4537bbca251ae55af9498afbfc36a9f359b16              464 main/binary-amd64/Packages.gz
 SHA256:
- 2e75c66ac9b61bff686d9fcbcfa40a8cb32339f0cc0d3ff3aa83c2f3339d6412              229 Release
+ ee942eafdf97a7efe3a46a66ed23b851da7161964e1a4860f9dd63472814ef90              207 Release
  01ecd00dff253d0d6ee1642c543bdbdb7ca566e7ec1c5f54f255d770fbd2b311              910 main/binary-amd64/Packages
- 454bc9035bd6b15259675b062d89fa51a7d0aef6cf49c68a33fd3c9afda46540              464 main/binary-amd64/Packages.gz
+ 137beef665432f3b442bff2069803d4ec1efc7cb983c21e36bf189fdc4d146aa              464 main/binary-amd64/Packages.gz
 SHA512:
- 2c203a4bbbff71df246d6cee813cc59c6e3d3832a0528b22c8aa94dcaffc66f116d2f4599da543f0752e2754107b12862ecfa62c568453f0f95097412d0cda58              229 Release
+ 8968aebb405f55577a625aa1d6a137c016cb6261189a25346323d51476e99bf246b02b8885542063b806c8a64c09566dd6b32bef6a62928d3738cee1b7f487e2              207 Release
  aea43b7bf478b1aaafc24a2f8e96ed0b7be6e887e88941f0c8367224537ef7c9ab5f7f9eb0a2f147587e91ac2464bddbc3212437aa0a36620190375b3ea3a767              910 main/binary-amd64/Packages
- 5554fa3223b1583be986a76dc567f0a87bdde7b9c84984b5b503255d5a2f606af39e856be583c3a2e81b4e56d000275091490e9a14297d1273153e0b801a7c5a              464 main/binary-amd64/Packages.gz
+ aece7a3e9990444bb1a700698f739c943a9b47b009d2bdd89967ff1fdcd312f8eb0999e90c0bea529ef06305844d8aba0b626208df6e2dee843f792f7383905b              464 main/binary-amd64/Packages.gz
