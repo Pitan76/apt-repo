@@ -1,0 +1,2 @@
+curl -fsSL https://pitan76.github.io/apt-repo/pitan76.gpg | sudo gpg --dearmor -o /usr/share/keyrings/pitan76.gpg
+echo "deb [signed-by=/usr/share/keyrings/pitan76.gpg] https://pitan76.github.io/apt-repo/ stable main" | sudo tee /etc/apt/sources.list.d/pitan76.list
