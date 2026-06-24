@@ -103,3 +103,18 @@ Priority: optional
 Description: CLI for ModParks
  ModParks CLI tool for interacting with ModParks API.
 
+Package: modparks-cli
+Version: 0.1.2-1
+Architecture: amd64
+Maintainer: Pitan76
+Installed-Size: 13578
+Filename: pool/main/modparks-cli-v0.1.2-ubuntu-x86_64.deb
+Size: 3653600
+MD5sum: 1593e513f9632833a85b2e5ab31e21c8
+SHA1: fba31945e24a9932084ef9e176465b6f3c2f433d
+SHA256: d675d1e9881950ec5d14d3a6569509313552e7f5e7254b94a0fc99fa74073ad2
+Section: utility
+Priority: optional
+Description: CLI for ModParks
+ ModParks CLI tool for interacting with ModParks API.
+
